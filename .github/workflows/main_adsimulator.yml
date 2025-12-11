@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'ADSimulator'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5E898D9F0BB54B729A3940E68C54A42A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_08A92DC32B564F94BA6130017C0F4A38 }}
